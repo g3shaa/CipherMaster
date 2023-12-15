@@ -22,4 +22,4 @@ Ensure you have a C compiler installed on your system, such as GCC.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ge3shaa/ClassicCryptos.git
+   git clone https://github.com/g3shaa/ClassicCryptos.git
