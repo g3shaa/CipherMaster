@@ -23,3 +23,11 @@ Ensure you have a C compiler installed on your system, such as GCC.
 1. Clone the repository:
    ```bash
    git clone https://github.com/g3shaa/ClassicCryptos.git
+
+2. Compile the code:
+   ```bash
+   gcc main.c caesar.c menu.c -o ClassicCryptos
+3. Run the program:
+   ```bash
+   ./ClassicCryptos
+
