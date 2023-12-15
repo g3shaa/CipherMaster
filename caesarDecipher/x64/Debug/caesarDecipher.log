@@ -1,0 +1,7 @@
+﻿  caesar.c
+C:\Users\Geshata\Documents\caesarDecipher\caesarDecipher\caesar.c(16,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Geshata\Documents\caesarDecipher\caesarDecipher\caesar.c(31,34): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  main.c
+  menu.c
+  Generating Code...
+  caesarDecipher.vcxproj -> C:\Users\Geshata\Documents\caesarDecipher\x64\Debug\caesarDecipher.exe
