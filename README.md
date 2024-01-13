@@ -12,6 +12,11 @@ Welcome to `CipherMaster` - a comprehensive repository dedicated to exploring an
 - **Comprehensive Documentation**: Each cryptographic method is accompanied by detailed comments explaining the logic and historical context.
 - **Interactive Menu**: A user-friendly console interface for easy interaction with the cipher functionalities.
 
+## Photos
+![image](https://github.com/g3shaa/CipherMaster/assets/64840882/28a1ff45-af1f-4931-961d-f0e36c2cd1a7)
+![image](https://github.com/g3shaa/CipherMaster/assets/64840882/019a1984-b1cc-4b4f-b8d3-8c1225dc8e8c)
+![image](https://github.com/g3shaa/CipherMaster/assets/64840882/43c80768-3393-4510-ae5e-7ba3f08df234)
+
 ## Getting Started
 
 ### Prerequisites
