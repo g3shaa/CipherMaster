@@ -1,10 +1,10 @@
-# ClassicCryptos
+# CipherMaster
 
-Welcome to `ClassicCryptos` - a repository dedicated to exploring and implementing classic cryptographic methods. This project starts with an iconic piece of cryptographic history: the Caesar Cipher.
+Welcome to `CipherMaster` - a comprehensive repository dedicated to exploring and implementing classic cryptographic methods. This project starts with an iconic piece of cryptographic history: the Caesar Cipher.
 
 ## About the Project
 
-`ClassicCryptos` aims to bring historical cryptography to life by providing clear, concise, and well-documented code examples. Starting with the Caesar Cipher, this repository will gradually expand to include various other classic cryptographic techniques.
+`CipherMaster` aims to bring historical cryptography to life by providing clear, concise, and well-documented code examples. Starting with the Caesar Cipher, this repository will gradually expand to include various other classic cryptographic techniques.
 
 ### What's Inside?
 
@@ -22,12 +22,12 @@ Ensure you have a C compiler installed on your system, such as GCC.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/g3shaa/ClassicCryptos.git
+   git clone https://github.com/g3shaa/CipherMaster.git
 
 2. Compile the code:
    ```bash
-   gcc main.c caesar.c menu.c -o ClassicCryptos
+   gcc main.c caesar.c -o CipherMaster
 3. Run the program:
    ```bash
-   ./ClassicCryptos
+   ./CipherMaster
 
