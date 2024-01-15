@@ -1,5 +1,12 @@
+#include "utils.h"
 #include "caesar.h"
 #include <ctype.h>
+#include <stdio.h>
+
+void clearBuffer() {
+    int c;
+    while ((c = getchar()) != '\n' && c != EOF);
+}
 
 void caesarCipher(char *text, int shift) {
     for (int i = 0; text[i] != '\0'; ++i) {
