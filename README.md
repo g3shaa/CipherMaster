@@ -6,7 +6,6 @@ ClassicCryptos is a GitHub repository that showcases implementations of historic
 
 - [Overview](#overview)
 - [Implemented Ciphers](#implemented-ciphers)
-- [Usage](#usage)
 - [Input Constraints](#input-constraints)
 - [Code Structure](#code-structure)
 - [Error Handling](#error-handling)
@@ -24,16 +23,6 @@ This repository serves as a learning resource for understanding and implementing
 2. **Vigenere Cipher**
     - A method of encrypting alphabetic text by using a simple form of polyalphabetic substitution.
 
-## Usage
-
-1. **Caesar Cipher**
-    - Choose option 1 to encrypt or decrypt a message using the Caesar Cipher.
-
-2. **Vigenere Cipher**
-    - Choose option 2 to encrypt or decrypt a message using the Vigenere Cipher.
-
-3. **Exit**
-    - Choose option 3 to exit the program.
 
 ## Input Constraints
 
